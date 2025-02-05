@@ -6,6 +6,7 @@ How to use it?
 2. Open Chrome and go to chrome://extensions/
 3. Turn on "Developer mode" on the top left
 4. Click "Load Unpacked" on the top right and choose the folder in step 1
+5. Right click on the extension, choose "Option" and paste in your own GPT api key
 
 How did I develop it? Windsurf
 
